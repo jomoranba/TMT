@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TMT</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="TextView">Bienvenido a la aplicación de monitoreo</string>
+</resources>
